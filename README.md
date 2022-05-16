@@ -1,4 +1,5 @@
 # Blockchain-Golang
+Creating a blockchain with golang.
 
 # 1- Run
 go run main.go
