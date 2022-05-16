@@ -24,9 +24,9 @@ raw
 json
 
 {
- "book_id": "b2bf5ec0004762984a4003d24292a5aa",
+ "book_id": "",
  "user": "furkan",
- "checkout_date": "2022-05-16"
+ "checkout_date": ""
 }
 
 # 4- All
